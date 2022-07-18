@@ -1,4 +1,13 @@
 absurd
 Not yet
 
+commit 210fc647a3fe4e300a2dadaff6001978e86217ec (HEAD -> master)
+Merge: 26c67e6 cade8d5
+Author: Nick <srac.ivanov@yandex.ru>
+Date:   Mon Jul 18 16:30:51 2022 +0300
 
+    Solve conflict
+
+commit cade8d53053278dbdebd3cb92f5846961884ed70
+Author: Nick <srac.ivanov@yandex.ru>
+Date:   Mon Jul 18 16:28:45 2022 +0300
