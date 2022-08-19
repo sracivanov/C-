@@ -1,13 +1,7 @@
-﻿int number_a = 5;
-int number_b = 7;
-int max = Console.ReadLine();
-if (number_a < number_b)
-{
-    Console.WriteLine(max = number_b);
-}
-else
-{
-    Console.WriteLine ("Ошибка");
-}
-Console.Write(max);
+﻿int number_a = -9;
+int number_b = -3;
+int max = number_b;
+int min = number_a;
+Console.WriteLine(max);
+Console.WriteLine (min);
 

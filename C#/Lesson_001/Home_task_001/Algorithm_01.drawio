@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="hG3hGqUSIrKXzSHj1Qfe" name="Страница 1">
-        <mxGraphModel dx="839" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="839" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -20,15 +20,15 @@
                         <mxPoint x="250" y="389.9999999999999" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="5" value="number_a&amp;nbsp;&lt;br&gt;number_b&lt;br&gt;max=number_b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-                    <mxGeometry x="190" y="280" width="120" height="60" as="geometry"/>
+                <mxCell id="5" value="number_a&amp;nbsp; = 5&lt;br&gt;number_b = 7&lt;br&gt;max=number_b&lt;br&gt;min = number_a" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="180" y="270" width="140" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="250" y="510" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="7" value="print (max)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.24999999999999858;" vertex="1" parent="1">
+                <mxCell id="7" value="print (max,min)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.24999999999999858;" vertex="1" parent="1">
                     <mxGeometry x="190" y="390" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
